@@ -1,6 +1,6 @@
 # Enterprise Design System
 
-**Developed by Rashika Gupta**
+**Developed by Rasika Gupta**
 
 A comprehensive, accessible, and responsive design system built with React, TypeScript, and Tailwind CSS. This design system provides enterprise-grade components with a focus on accessibility, maintainability, and exceptional developer experience.
 
